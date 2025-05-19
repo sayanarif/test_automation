@@ -123,15 +123,3 @@ npm run test:api
 - Use `npx playwright test --ui` for interactive test runner
 - Use `.first()` or better locators when strict mode issues occur
 
----
-
-## 👨‍💻 Author
-
-**Md Ariful Islam**  
-_This was developed as part of a QA Automation Engineer Assessment._
-
----
-
-## 📬 Need Help?
-
-Open an issue or contact via your preferred platform. Happy Testing! ✅
